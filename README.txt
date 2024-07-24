@@ -12,7 +12,6 @@ This is a comprehensive Event Management System built using React for the fronte
 
 ## Prerequisites
 - Java 8 or higher
-- Node.js and npm
 - MySQL
 
 ## Setup
